@@ -106,11 +106,4 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [Markdown](https://python-markdown.github.io/) for Markdown parsing
-- [ReportLab](https://www.reportlab.com/opensource/) for PDF generation
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
-- [pdfplumber](https://github.com/jsvine/pdfplumber) for PDF text extraction
-- [docx2txt](https://github.com/ankushshah89/python-docx2txt) for Word document text extraction
 
